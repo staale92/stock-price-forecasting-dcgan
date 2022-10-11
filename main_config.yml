@@ -1,0 +1,6 @@
+
+dataset : ./data/ATL.MI_13v.xlsx #set to the desired dataset (default is ATL)
+n_steps_in : 2
+n_steps_out : 5 #set to 1 for single-step forecasting
+train_dimension : 0.8
+epochs : 1200
